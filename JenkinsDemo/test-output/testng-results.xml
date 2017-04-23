@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="69" started-at="2017-04-23T18:20:06Z" finished-at="2017-04-23T18:20:06Z">
+  <suite name="Default suite" duration-ms="42" started-at="2017-04-23T18:35:50Z" finished-at="2017-04-23T18:35:51Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="69" started-at="2017-04-23T18:20:06Z" finished-at="2017-04-23T18:20:06Z">
+    <test name="Default test" duration-ms="42" started-at="2017-04-23T18:35:50Z" finished-at="2017-04-23T18:35:51Z">
       <class name="tests.UnitTest1">
-        <test-method status="PASS" signature="TestMethod1()[pri:0, instance:tests.UnitTest1@5afa04c]" name="TestMethod1" duration-ms="39" started-at="2017-04-23T23:50:06Z" finished-at="2017-04-23T23:50:06Z">
+        <test-method status="PASS" signature="TestMethod1()[pri:0, instance:tests.UnitTest1@5afa04c]" name="TestMethod1" duration-ms="15" started-at="2017-04-24T00:05:51Z" finished-at="2017-04-24T00:05:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestMethod1 -->
